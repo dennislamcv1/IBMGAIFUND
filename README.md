@@ -1,5 +1,5 @@
-# IBMGenAIFund
-## Generative AI Fundamentals Specialization
+# IBMGAIFUND
+## Generative AI Fundamentals Specialization (5 course series)
 
 Generative AI is revolutionizing our lives.
 
